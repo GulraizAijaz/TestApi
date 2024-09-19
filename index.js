@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 
 
 app.get("/",(req,res)=>{
-    res.send("hellooo from serverr")
+    res.send("hellooo from serverr test")
 })
 
 
